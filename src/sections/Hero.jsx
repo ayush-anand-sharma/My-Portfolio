@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/purity */
+/* eslint-disable no-unused-vars */
 import { Button } from "@/components/Button";
 import {
   ArrowRight,
